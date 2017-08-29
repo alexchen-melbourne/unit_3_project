@@ -30,7 +30,8 @@ MSZoning: Identifies the general zoning classification of the sale.
 	
 LotFrontage: Linear feet of street connected to property
 
-LotArea: Lot size in square feet
+
+
 
 Street: Type of road access to property
 
@@ -420,8 +421,7 @@ GarageType: Garage location
        Detchd	Detached from home
        NA	No Garage
 		
-GarageYrBlt: Year garage was built
-		
+1stFlrSF		
 GarageFinish: Interior finish of the garage
 
        Fin	Finished
